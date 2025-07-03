@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Quran App</title>
+        <item>
+            <title>Version 1.0.1</title>
+            <description>Minor bug fixes and performance improvements.</description>
+            <pubDate>Thu, 03 Jul 2025 21:30:00 +0300</pubDate>
+            <sparkle:version>1.0.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:criticalUpdate>false</sparkle:criticalUpdate>
+            <enclosure url="https://github.com/your_username/quran_app/releases/download/v1.0.1/app-release.apk" sparkle:os="android" />
+        </item>
+    </channel>
+</rss>
